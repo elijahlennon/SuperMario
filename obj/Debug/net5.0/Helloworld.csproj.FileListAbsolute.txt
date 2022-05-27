@@ -1,0 +1,15 @@
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/Helloworld.deps.json
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/Helloworld.runtimeconfig.json
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/Helloworld.runtimeconfig.dev.json
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/Helloworld.dll
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/ref/Helloworld.dll
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/bin/Debug/net5.0/Helloworld.pdb
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.csproj.AssemblyReference.cache
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.AssemblyInfoInputs.cache
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.AssemblyInfo.cs
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.csproj.CoreCompileInputs.cache
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.dll
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/ref/Helloworld.dll
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.pdb
+/Users/elijahlennon/Desktop/csharp27/Repos/Helloworld/obj/Debug/net5.0/Helloworld.genruntimeconfig.cache
